@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Alifya Febriana 1804111010007
+=======
+test.txt
+Muhammad Yusuf Kardawi 1804111010058
+>>>>>>> 1804111010007
